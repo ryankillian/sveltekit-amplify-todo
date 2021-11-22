@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ampproject-dev-154632-authRole",
+      "UnauthRoleArn": "arn:aws:iam::698776442513:role/amplify-ampproject-dev-154632-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::698776442513:role/amplify-ampproject-dev-154632-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-ampproject-dev-154632-deployment",
+      "UnauthRoleName": "amplify-ampproject-dev-154632-unauthRole",
+      "StackName": "amplify-ampproject-dev-154632",
+      "StackId": "arn:aws:cloudformation:eu-west-1:698776442513:stack/amplify-ampproject-dev-154632/0a892280-4a19-11ec-9525-06215480d425",
+      "AmplifyAppId": "d3s6rvi59k52hu"
+    }
+  }
+}
